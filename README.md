@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Kamalika De, and I'm a Computer Science: Computer Game Design major at UC Santa Cruz! I'm experienced in Python, C, WSL, and web development. I'm interested in LLM research and using code to benefit the community.
 <!--
 **kamaDe25/kamaDe25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
